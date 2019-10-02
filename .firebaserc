@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "intermatter"
+  },
+  "targets": {
+    "intermatter": {
+      "hosting": {
+        "production": [
+          "todonot"
+        ]
+      }
+    }
+  }
+}

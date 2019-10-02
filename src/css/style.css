@@ -1,0 +1,45 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+.header {
+    user-select: none;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: auto;
+    user-select: none;
+}
+
+.todo-item-body {
+    display: flex;
+    align-items: center;
+}
+
+.todo-item-body>div {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.todo-content {
+    flex: 1;
+    word-break: break-all;
+}
+
+.todo-content>span {
+    font-size: 13px;
+}
