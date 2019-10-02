@@ -45,7 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Deploys the production built app to firebase using the [firebase configuration](https://firebase.google.com/docs/web/setup) specified with the environment variables prefixed with `REACT_APP_FIREBASE` (an example environment configuration file is available in the root directory of the project as `.env.default`) and the [deploy targets](https://firebase.google.com/docs/web/setup) set with the Firebase CLI.
 
-Make sure to run `yarn build` before running this script or use the `yarn deploy:build` shorthand script.
+Make sure to run `yarn build` before running this script.
 
 ## Learn More
 
