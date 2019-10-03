@@ -36,7 +36,7 @@ class Header extends React.Component {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <Link className="navbar-brand" to="/" replace>
-          Todonot
+          Todo&not;
           </Link>
           <ul className="navbar-nav">
             <li
